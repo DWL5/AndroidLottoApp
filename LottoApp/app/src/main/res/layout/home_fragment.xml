@@ -9,6 +9,7 @@
     android:padding="16dp">
 
     <androidx.cardview.widget.CardView
+        android:id="@+id/randomCard"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
@@ -53,6 +54,7 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
+        android:id="@+id/constrallationCard"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
@@ -97,6 +99,7 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
+        android:id="@+id/nameCard"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
